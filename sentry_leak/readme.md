@@ -23,7 +23,7 @@ Cron example (for automation)
 
 How it works
     1.	Fetches the latest leaks from bonjourlafuite.eu.org
-    2.	Parses each entry’s title ( <h2> ), date ( <span> ), and details ( <div class='timeline-description'> )
+    2.	Parses each entry’s title ( `<h2>` ), date ( `<span>` ), and details ( `<div class='timeline-description'>` )
     3.	Compares them with a local JSON file ( fuites.json )
     4.	If a new leak is found:
         •	Sends a macOS notification via  notifier.py 
