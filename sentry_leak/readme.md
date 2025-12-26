@@ -12,12 +12,12 @@ Requirements
 
 Basic syntax : 
 
-````bash
+```bash
 python3 Sentry-Leak.py [--to EMAIL]
 ```
 
 Cron example (for automation)
-````bash
+```bash
 0 */6 * * * /usr/bin/python3 /path/to/Sentry-Leak.py --to "you@example.com"
 ```
 
