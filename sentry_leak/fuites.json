@@ -1,0 +1,85 @@
+[
+  {
+    "Nom": "Mondial Relay",
+    "Date": "26 décembre 2025",
+    "Infos": [
+      "nom, prénom",
+      "adresse email",
+      "adresse postale",
+      "numéro de téléphone",
+      "numéro d’expédition",
+      "statuts des livraisons"
+    ]
+  },
+  {
+    "Nom": "Adecco",
+    "Date": "24 décembre 2025",
+    "Infos": [
+      "nom, prénom",
+      "adresse email",
+      "numéro de téléphone",
+      "CV",
+      "Secteur",
+      "Poste recherché",
+      "Expériences professionnelles",
+      "Niveau d’éducation",
+      "Diplômes",
+      "Compétences",
+      "Langues maîtrisées",
+      "Status professionnel"
+    ]
+  },
+  {
+    "Nom": "Fédération Française de Natation",
+    "Date": "23 décembre 2025",
+    "Infos": [
+      "nom, prénom",
+      "numéro de licence",
+      "adresse postale",
+      "adresse email",
+      "numéro de téléphone",
+      "informations médicales",
+      "coordonnés des parents",
+      "club"
+    ]
+  },
+  {
+    "Nom": "123 casting",
+    "Date": "22 décembre 2025",
+    "Infos": [
+      "nom, prénom",
+      "mot de passe haché en MD5 (en clair donc…)",
+      "date de naissance, genre",
+      "adresse postale",
+      "adresse mail",
+      "numéro de téléphone",
+      "taille, poids, couleurs des yeux et des cheuveux, mensurations",
+      "origine ethnique",
+      "signes distinctifs",
+      "book photos & vidéos",
+      "historique des messages privés",
+      "données de paiement"
+    ]
+  },
+  {
+    "Nom": "Altitude Infra",
+    "Date": "22 décembre 2025",
+    "Infos": [
+      "infrastructures réseau",
+      "fichier partenaires",
+      "données opérationnelles"
+    ]
+  },
+  {
+    "Nom": "justice.fr",
+    "Date": "22 décembre 2025",
+    "Infos": [
+      "nom, prénom",
+      "fonction judiciaire",
+      "adresse personnelle",
+      "numéro de téléphone personnel",
+      "informations professionnelles",
+      "IBAN"
+    ]
+  }
+]
