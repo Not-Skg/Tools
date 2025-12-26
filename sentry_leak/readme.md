@@ -22,13 +22,13 @@ Cron example (for automation)
 ```
 
 How it works
-    1.	Fetches the latest leaks from bonjourlafuite.eu.org
-    2.	Parses each entry’s title ( `<h2>` ), date ( `<span>` ), and details ( `<div class='timeline-description'>` )
-    3.	Compares them with a local JSON file ( fuites.json )
-    4.	If a new leak is found:
-        •	Sends a macOS notification via  notifier.py 
-        •	Optionally sends an email via  mailer.py 
-        •	Updates the local JSON cache
+1.	Fetches the latest leaks from bonjourlafuite.eu.org
+2.	Parses each entry’s title ( `<h2>` ), date ( `<span>` ), and details ( `<div class='timeline-description'>` )
+3.	Compares them with a local JSON file ( fuites.json )
+4.	If a new leak is found:<br>
+        •	Sends a macOS notification via  notifier.py <br>
+        •	Optionally sends an email via  mailer.py <br>
+        •	Updates the local JSON cache<br>
 
 Integration notes
 To enable secure email alerts, configure mailer.py once with your Gmail App Password in macOS Keychain  
